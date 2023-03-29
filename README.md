@@ -1,4 +1,4 @@
-### Olá, meu nome é Natalia Arruda
+## Olá, meu nome é Natalia Arruda
 
 - 🔭 Desenvolvedora Full-Stack
 - 🌱 Estudando ReactJs e NextJs
@@ -23,6 +23,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫Contato
+E-mail: natalia.arruda87@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-arruda-930494176/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NataliaArruda87/NataliaArruda87)
